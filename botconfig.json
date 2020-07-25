@@ -1,0 +1,11 @@
+{
+    "prefix": "!",
+    "hostSQL": "localhost",
+    "userSQL": "root",
+    "passwordSQL": "",
+    "databaseSQL": "whitelist",
+    "portSQL": "3306",
+    "hexIDText": "hex-id",
+    "whitelistCommandChat": "whitelist-adding-channel",
+    "whitelistHelper": "732890590642962472"
+}

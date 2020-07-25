@@ -1,0 +1,16 @@
+{
+  "name": "whitelistmanager",
+  "version": "1.0.0",
+  "description": "FiveM whitelister",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prod. homeless †#6929",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0"
+  }
+}
